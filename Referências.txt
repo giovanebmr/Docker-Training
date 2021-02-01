@@ -1,0 +1,10 @@
+Tutoriais práticos do Docker para desenvolvedores
+
+
+
+httpswww.docker.complay-with-docker
+
+
+labs
+
+https://labs.play-with-docker.com/

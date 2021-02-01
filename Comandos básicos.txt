@@ -1,0 +1,32 @@
+
+docker ps
+#verificar o status do nosso contêiner
+
+docker stats (id ou apelido do container)
+#Para que possamos ter informações sobre um contêiner nos executamos o comando acima, ele nos retorna dados como:
+#CONTAINER — ID do Container;
+#CPU % — uso de CPU em porcentagem;
+#MEM USAGE / LIMIT — Memória usada/Limite que você pode ter setado;
+#MEM — uso de memória em porcentagem;
+#NET I/O — I/O de Internet;
+#BLOCK IO — Outros processos de I/O;
+
+docker info
+#Quando nós acabamos de subir o Docker Engine, nós utilizamos esse comando para verificarmos as informações do nosso Docker Host.
+
+docker version
+#Com o version nós conseguimos ver a versão do nosso Client
+
+docker images
+#utilizamos ele para listarmos as imagens que nós temos no nosso host
+#Repository: repositório;
+#TAG: tag utilizada no repositório;
+#IMAGE ID: o id na nossa imagem;
+#Created: data de quando nós criamos a nossa imagem;
+#Size: tamanho da imagem;
+
+docker search (parametro)
+#Para que possamos procurar uma imagem,
+#por exemplo: nós podemos utilizar o comando com o parâmetro "node"
+
+docker pull (parametro)
