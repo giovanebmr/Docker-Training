@@ -2,7 +2,7 @@ Tutoriais práticos do Docker para desenvolvedores
 
 
 
-https://www.docker.complay-with-docker
+https://www.docker.com/play-with-docker
 
 
 labs
